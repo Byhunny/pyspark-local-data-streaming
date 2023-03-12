@@ -29,3 +29,12 @@ Examine the arguments
 --app_name --> Give this pipeline a name
 ```
 
+# Test
+You can generate sample data to the folder you specified.
+
+And Start
+```
+python3 main.py
+or
+python main.py
+```
